@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 ##  Hi, I'm Daeun Kang 👋
 
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winter17)](https://solved.ac/winter17)-->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winter17)](https://solved.ac/winter17)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterkang&show_icons=true&theme=transparent) 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterkang&show_icons=true&theme=transparent) -->
 
 
 #### 🍒 studying
